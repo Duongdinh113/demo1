@@ -4,4 +4,5 @@
     $query = "INSERT INTO type (name) VALUES ('$type')";
     connect($query);
     header("location:../view/admin/type.php");
+    hadakjsdakhsdakj
 ?>
